@@ -1,0 +1,46 @@
+header{
+    background-color: #d3c614;
+padding: 10px;
+text-align: center;
+}
+h2{
+text-align: center;
+border: 20px;
+background-color: rgb(215, 231, 231);
+}
+p{
+padding: 80px;
+background-color: rgb(215, 231, 231);
+text-align: left;
+}
+.container {
+display: flex;
+align-items: center;
+
+}
+
+.image {
+margin-right: 20px;
+}
+input{
+
+display: flex;
+align-items:baseline;
+}
+footer {
+background-color: #000;
+color: #fff;
+padding: 10px;
+text-align: center;
+}
+form{
+background-color: #17aacf;
+align-items: flex-end;
+}
+.read-more-button {
+position: absolute;
+top: 0;
+right: 0;
+padding: 10px;
+background-color: #95a319;
+}
